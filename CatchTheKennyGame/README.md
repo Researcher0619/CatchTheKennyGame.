@@ -65,4 +65,4 @@ Catch The Kenny is a simple and fun game built with Swift and UIKit. The aim of 
 
 ## Contributing
 
-Feel free to contribute to this project by submitti
+Feel free to contribute to this project by submittig a pull request. If you find any bugs or have suggestions for improvements, please open an issue.

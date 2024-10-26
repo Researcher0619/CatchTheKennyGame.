@@ -12,7 +12,8 @@ Catch The Kenny is a simple and fun game built with Swift and UIKit. The aim of 
 
 ## Screenshots
 
-![Game Screenshot](path/to/your/screenshot.png)
+![kenny](https://github.com/user-attachments/assets/d4fa9b28-6555-4d77-8cb7-583dfa0bc424)
+
 
 ## Requirements
 
